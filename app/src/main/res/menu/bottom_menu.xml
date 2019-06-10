@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_air"
+        android:enabled="true"
+        android:icon="@drawable/ic_local_airport_black_24dp"
+        android:title="비행기"/>
+    <item
+        android:id="@+id/action_texi"
+        android:enabled="true"
+        android:icon="@drawable/ic_local_taxi_black_24dp"
+        android:title="택시"/>
+    <item
+        android:id="@+id/action_cart"
+        android:enabled="true"
+        android:icon="@drawable/ic_shopping_cart_black_24dp"
+        android:title="쇼핑"/>
+    <item
+        android:id="@+id/action_phone"
+        android:enabled="true"
+        android:icon="@drawable/ic_phone_black_24dp"
+        android:title="전화"/>
+    <item
+        android:id="@+id/action_train"
+        android:enabled="true"
+        android:icon="@drawable/ic_train_black_24dp"
+        android:title="기차"/>
+
+</menu>
